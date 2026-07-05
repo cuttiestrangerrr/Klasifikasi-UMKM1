@@ -16,7 +16,7 @@ from data_model import (
     LABEL_TUMBUH, LABEL_STABIL, LABEL_PERLU_PERHATIAN,
 )
 
-st.set_page_config(page_title="Klasifikasi UMKM", page_icon="🔍",
+st.set_page_config(page_title="Klasifikasi UMKM",
                    layout="wide", initial_sidebar_state="expanded")
 
 st.markdown("""
